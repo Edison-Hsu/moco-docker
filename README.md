@@ -1,1 +1,1 @@
-moco 0.12.1 with master branch build
+moco 1.0.0 with master branch build
